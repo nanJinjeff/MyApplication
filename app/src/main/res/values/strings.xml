@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="picture_image_choice">which of these is "man"?</string>
+</resources>
