@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="picture_image_choice">which of these is "man"?</string>
+    <string name="translation_words_activity">how do you say "boy"?</string>
+    <string name="translation_sentence_activity">Bitgarra Demma</string>
+    <string name="translation_sentence">translation sentence</string>
+    <string name="check">check</string>
+    <string name="Nop">Nop</string>
+    <string name="Koort">Koort</string>
+    <string name="Boya">Boya</string>
+    <string name="Bujep">Bujep</string>
 </resources>
